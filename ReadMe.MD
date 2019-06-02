@@ -25,8 +25,6 @@
 
 ## Setup/Installation Requirements
 
-Download .NET Core 2.2.103 SDK install it. Download Mono and install it.
-
 1. Clone this repository: $ git clone >repo name here<
 2. Change into the work directory: $ cd GalacticAgeCalculator
 3. In console type: npm install
